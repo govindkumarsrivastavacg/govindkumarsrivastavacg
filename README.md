@@ -84,7 +84,7 @@
 
 <p align="center">
 
-<a href="">https://www.linkedin.com/in/govind-kumar-srivastava-368269427/
+<a href="https://www.linkedin.com/in/govind-kumar-srivastava-368269427/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
