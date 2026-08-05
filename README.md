@@ -88,7 +88,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:govind.kumar.srivastava.cg@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
