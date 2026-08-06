@@ -42,9 +42,9 @@
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=GovindKumarSrivastava&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=govindkumarsrivastavacg&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindKumarSrivastava&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govindkumarsrivastavacg&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -54,7 +54,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=GovindKumarSrivastava&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=govindKumarsrivastavacg&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -64,7 +64,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GovindKumarSrivastava&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=govindkumarsrivastavacg&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -74,7 +74,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GovindKumarSrivastava&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=govindkumarsrivastavacg&theme=tokyo-night"/>
 
 </p>
 
@@ -92,7 +92,7 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/Govind_Kumar_Srivastava">
+<a href="https://github.com/govindkumarsrivastavacg">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
