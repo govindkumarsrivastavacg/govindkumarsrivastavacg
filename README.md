@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Govind_Kumar_Srivastava&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Govind_Kumar_Srivastava?logo=github&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Govind_Kumar_Srivastava?logo=github&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=GovindKumarSrivastava&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/GovindKumarSrivastava?logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/GovindKumarSrivastava?logo=github&style=for-the-badge" />
 </p>
 
 ---
@@ -42,9 +42,9 @@
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Govind_Kumar_Srivastava&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=GovindKumarSrivastava&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govind_Kumar_Srivastava&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindKumarSrivastava&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -54,7 +54,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Govind_Kumar_Srivastava&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=GovindKumarSrivastava&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -64,7 +64,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Govind_Kumar_Srivastava&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GovindKumarSrivastava&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -74,7 +74,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Govind_Kumar_Srivastava&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GovindKumarSrivastava&theme=tokyo-night"/>
 
 </p>
 
