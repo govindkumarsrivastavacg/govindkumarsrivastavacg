@@ -63,16 +63,8 @@ B.Tech Student • AI Enthusiast • Aspiring Software Developer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=govindkumarsrivastavacg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    width="48%" 
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=govindkumarsrivastavacg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    width="48%" 
-    alt="Top Languages"
-  />
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages" />
 </p>
 
 ---
@@ -80,13 +72,9 @@ B.Tech Student • AI Enthusiast • Aspiring Software Developer
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=govindkumarsrivastavacg&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies
 
